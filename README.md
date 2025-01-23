@@ -32,7 +32,7 @@ Active learning can be applied across a wide range of NLP tasks, including:
 
 
 
-# How to Apply Active Learning in NLP 📊\
+# How to Apply Active Learning in NLP 📊
 
 ## Step 1: Prepare Your Dataset
 
